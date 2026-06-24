@@ -1,0 +1,3 @@
+const DEFAULT_API_TIMEOUT = 60000;
+
+export { DEFAULT_API_TIMEOUT };
